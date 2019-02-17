@@ -3,7 +3,7 @@
 //Define Pins
 #define LED 5
 #define buttonApin 9//VAR PORT
-#define butonBpin 8
+#define buttonBpin 8
 
 byte leds = 0; //Tutorial told me to do this, but IDK what exactly it does
 
